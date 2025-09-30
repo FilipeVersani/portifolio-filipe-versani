@@ -1,4 +1,4 @@
-# portifolio-filipe-versani
+# Portifólio Filipe Versani
 
 🚀 Portfólio de Desenvolvimento Front-End | Filipe Versani.
 Bem-vindo ao meu espaço de projetos! Este repositório centraliza e demonstra minhas habilidades e experiências em Desenvolvimento Web Front-End e em tecnologias Full-Stack complementares.
